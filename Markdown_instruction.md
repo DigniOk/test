@@ -58,6 +58,10 @@
 
 ## Заключение
 
+<<<<<<< HEAD
 _Наконец то закончил!!!!_ 
 
 >Отношения — это компромисс, умение прислушаться к другому человеку, понять его, объяснить себя, свои желания, отношения к миру, причины поступков. Молчать и дуться, решив, что всё понятно и так и «он должен осознавать, как неправ…» — ну просто детский сад какой-то — никто никому ничего не должен. Объясняй, проси объяснить, прощай, проси простить, разговаривай, только не уходи в тупик молчания и обид, нелепого и идиотского самолюбия.
+=======
+_Наконец то закончил!!!!_ Как сделать?AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaA
+>>>>>>> error1
